@@ -246,7 +246,7 @@ PrefabInstance:
     - target: {fileID: 114698664879617658, guid: 2245b61a9ca1fc44db55afc1ca76ab6e,
         type: 3}
       propertyPath: currentBoard
-      value: Crasteroids
+      value: Crashteroids
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2245b61a9ca1fc44db55afc1ca76ab6e, type: 3}
